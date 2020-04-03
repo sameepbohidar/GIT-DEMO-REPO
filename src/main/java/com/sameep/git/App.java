@@ -9,7 +9,11 @@ public class App {
 		
 		if(data.equals("java"))
 		{
-			System.out.println("welcome");
+			System.out.println("welcome java");
+		}
+		else
+		{
+			System.out.println("hello world");
 		}
 	}
 	
